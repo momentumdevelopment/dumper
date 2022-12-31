@@ -1,3 +1,5 @@
+Originally created by bon and linustouchtips. Outdated.
+
 # Prerequisites
 
 1. Ensure your JAVA_HOME variable is set.
