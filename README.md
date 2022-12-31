@@ -1,9 +1,9 @@
-# PREREQUISITES
+# Prerequisites
 
 1. Ensure your JAVA_HOME variable is set.
 2. Know the package name for the client you want to dump.
 
-# INSTRUCTIONS
+# Usage
 
 1. Download both jars from the Releases tab, and place them on your desktop.
 2. Launch Minecraft Forge with the mod you would like to dump.
